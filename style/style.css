@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+header ul{
+    margin-left: 30px;
+}
+header li a{
+    float: left;
+    color: white;
+    margin-top: 38px;
+    padding-right: 20px;
+
+}
+.nav1{
+    padding-right: 600px;
+    font-size: 18;
+}
+.nav2{
+    font-weight: bold;
+}
+main{
+    width:100%;
+    height:1698px;
+    background-color: black;
+    margin-top:2px
+}
+h2{
+    font-size: 128px;
+    color: white;
+    text-align: center;
+    word-spacing: 60px;
+}
+.statia1{
+    font-size: 20px;
+    width: 296px;
+    height: 54px;
+    color: white;
+    padding-left: 60px;
+    padding-top: 340px;
+    float: left;
+}
+.statia2{
+    font-size: 20px;
+    width: 120px;
+    height: 54px;
+    color: white;
+    margin-left: 130px;
+    padding-top: 340px;
+    float: left;
+}
+.statia3{
+    width:660px;
+    height:270px;
+    color: white;
+    font-size: 20px;
+    margin-left: 130px;
+    padding-top: 340px;
+    float: left;
+}
+.row{
+    width: 100%;
+    height: 2px;
+    background-color: white;
+    margin-top: 720px;
+
+}
+.st1{
+    width: 30%;
+    height: 750px;
+    margin-left: 30px;
+    float: left;
+}
+.st1 h2{
+    font-size: 18px;
+    color:white;
+    padding-top: 0;
+    word-spacing: 4px;
+    float: left;
+    
+}
+.surati1{
+    width: 100%;
+    height: 712px;
+    margin-top: 38px;
+    overflow: hidden;
+
+   
+}
+.img1{
+    width: 100%;
+    height: 100%;
+    
+}
+.st2{
+    width: 30%;
+    height: 750px;
+    margin-left: 30px;
+    float: left;
+}
+.st2 h2{
+    font-size: 18px;
+    color:white;
+    padding-top: 0;
+    word-spacing: 4px;
+    float: left;
+    
+}
+.surati2{
+    width: 100%;
+    height: 712px;
+    margin-top: 38px;
+    overflow: hidden;
+   
+}
+.img2{
+    height: 100%;
+    margin-left: -400px;
+    
+    
+}
+.st3{
+    width: 30%;
+    height: 750px;
+    margin-left: 30px;
+    float: left;
+}
+.st3 h2{
+    font-size: 18px;
+    color:white;
+    padding-top: 0;
+    word-spacing: 4px;
+    float: left;
+    
+}
+.surati3{
+    width: 100%;
+    height: 712px;
+    margin-top: 38px;
+    overflow: hidden;
+   
+}
+.img3{    
+    height: 100%;
+    margin-left: -300px;
+    
+    
+}
+    
+   
+    
+
+footer{
+    width:100%;
+    height: 200px;
+    background-color: black;
+    margin-top: 0;
+
+}
+.foot{
+    width: 20%;
+    height: 100px;
+    margin-left: 10%;
+    padding-top: 50px;
+}
+.footimg{
+    height:100px;
+    float: left;
+}
+.imgf{
+    height: 100%;
+}
+footer p{
+    color: white;
+    float: left;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.pfoot{
+    font-size: 24px;
+}
+
+    
